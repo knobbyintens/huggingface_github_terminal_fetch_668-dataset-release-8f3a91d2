@@ -28,7 +28,3 @@ Used as the instruction side of the Q4 batch.
 - upstream_dataset: tatsu-lab/alpaca
 - upstream_owner: Stanford NLP
 - pipeline: instruction cleaning, blank-response removal, schema normalization
-
-## License
-
-License: PENDING LEGAL REVIEW
