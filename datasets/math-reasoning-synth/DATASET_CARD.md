@@ -33,3 +33,7 @@ question with a synthesized reasoning trace and a normalized final answer.
 - synthesis_model: deepseek-ai/DeepSeek-V2.5
 - synthesis_method: reasoning traces generated with the synthesis model, then filtered
 - pipeline: schema remapping, answer normalization and quality filtering
+
+## License
+
+License: PENDING LEGAL REVIEW
