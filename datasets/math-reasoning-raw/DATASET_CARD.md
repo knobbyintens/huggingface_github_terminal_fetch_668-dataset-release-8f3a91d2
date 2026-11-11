@@ -27,3 +27,7 @@ Raw grade-school math word-problem corpus, normalized for downstream curation.
 - upstream_dataset: openai/gsm8k
 - upstream_owner: OpenAI
 - pipeline: question cleaning, de-duplication and schema normalization
+
+## License
+
+License: mit
