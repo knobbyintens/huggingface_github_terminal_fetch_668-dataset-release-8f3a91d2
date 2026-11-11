@@ -1,0 +1,32 @@
+[
+  {
+    "artifact": "instruction-raw",
+    "upstream_dataset": "tatsu-lab/alpaca",
+    "upstream_license": "cc-by-nc-4.0",
+    "synthesis_model": "",
+    "synthesis_model_license": "",
+    "effective_license": "PENDING LEGAL REVIEW",
+    "classification": "RESTRICTED",
+    "requires_legal_review": true
+  },
+  {
+    "artifact": "math-reasoning-raw",
+    "upstream_dataset": "openai/gsm8k",
+    "upstream_license": "mit",
+    "synthesis_model": "",
+    "synthesis_model_license": "",
+    "effective_license": "mit",
+    "classification": "APPROVED",
+    "requires_legal_review": false
+  },
+  {
+    "artifact": "math-reasoning-synth",
+    "upstream_dataset": "openai/gsm8k",
+    "upstream_license": "mit",
+    "synthesis_model": "meta-llama/Llama-3.1-8B",
+    "synthesis_model_license": "llama3.1",
+    "effective_license": "PENDING LEGAL REVIEW",
+    "classification": "LEGAL_REVIEW",
+    "requires_legal_review": true
+  }
+]
